@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header {
+    background-color: lightblue;
+}
+.main {
+    background-color: orange;
+}
+.footer{
+    background-color: lightblue;
+}
