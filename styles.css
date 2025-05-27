@@ -4,6 +4,8 @@ body {
 }
 .header {
     background-color: lightblue;
+    color: blue;
+    text-shadow: 2px 4px 4px black;
 }
 .main {
     background-color: orange;

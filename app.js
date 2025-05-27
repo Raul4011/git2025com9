@@ -6,3 +6,8 @@ perritos.map(perrito=>document.getElementById("root").innerHTML += `<li>${perrit
 const saludar = () =>{
     console.log("jelouuuuuuu");
 }
+
+
+function restar(a,b) {
+    return a-b
+}
